@@ -19,7 +19,7 @@
 <thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
 <fanart>https://imgur.com/PaduFfR.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/tvaovivo/Categorias%20TV%20ao%20VIVO.txt</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/formigateste/main/Categorias%2520TV%2520ao%2520VIVO.txt</externallink>
 <info>[COLOR branco][B]Sua Tv Na Caxinha[/B][/COLOR]</info>
 </canal>
 </canais>
