@@ -1,0 +1,41 @@
+<canal>
+<canais>
+<name>[COLOR branco][B] WEB TV  [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/en036n6.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/g3xFW67u</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] Pluto TV[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+
+<canal>
+<canais>
+<name>[COLOR white][B]FORMIGAtv :[COLOR cyan][B] SERVIDOR 01 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/en036n6.jpg</thumbnail>
+<fanart>https://imgur.com/P3VGdtG.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/tvaovivo/SERIVIDOR01.txt</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] TV MUNDIAL [/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+<canal>
+<canais>
+<name>[COLOR white][B]FORMIGAtv :[COLOR cyan][B] SERVIDOR 02[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/en036n6.jpg</thumbnail>
+<fanart>https://imgur.com/P3VGdtG.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/tvaovivo/SERIVIDOR01.txt</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] TV WEB / TV Brasileira |[COLOR yellow][B] Atualizado 02/11 08:02[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+
+
