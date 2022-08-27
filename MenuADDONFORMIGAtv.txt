@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>lista</layoutype>
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Bem Vindo [COLOR orange][B]- [COLOR yellow][B] Ao ADDON!![/B][/COLOR]</name>
+<thumbnail>https://imgur.com/PiNgxsI.jpg</thumbnail>
+<fanart>https://imgur.com/PaduFfR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wbfgFe9E</externallink>
+<info>[COLOR white][B]Fique em casa!![/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Canais ao VIVO .:[COLOR orange][B] [Ultima atualizaÃ§Ã£oÃ§Ã£o. 04/03] [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
+<fanart>https://imgur.com/PaduFfR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/tvaovivo/Categorias%20TV%20ao%20VIVO.txt</externallink>
+<info>[COLOR branco][B]Sua Tv Na Caxinha[/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Filmes .:[COLOR orange][B] [Ultima atualizaÃ§Ã£oÃ§Ã£o. 04/03] [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
+<fanart>https://imgur.com/PaduFfR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/Menu/filmes.txt</externallink>
+<info>[COLOR white][B]DisponÃ­vel no Face Oficial FORMIGAtv[/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+ 
+<canal>
+<name>[COLOR white][B]Desenhos 24hs .:[COLOR orange][B] [Ultima atualizaÃ§Ã£oÃ§Ã£o. 04/03] [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
+<fanart>https://imgur.com/PaduFfR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://sites.google.com/site/formigatvbox/lista-01/TV-24h.m3u8?attredirects=0&d=1</externallink>
+<info>[COLOR branco][B]FORMIGAtv 24hs.[/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+ 
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Seriados .: [COLOR orange][B] [Ultima atualizaÃ§Ã£oÃ§Ã£o. 04/03][/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
+<fanart>https://imgur.com/p85AzE4.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/11iiHDE1</externallink>
+<info>[COLOR white][B]DisponÃ­vel no Face Oficial FORMIGAtv[/B][/COLOR]</info>
+</canal>
+</canais>
+
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Animes [COLOR orange][B] [att. 04/03] [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1ldMxCf.jpg</thumbnail>
+<fanart>https://imgur.com/PaduFfR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/cS6dYuN2</externallink>
+<info>[COLOR white][B]Animes[/B][/COLOR]</info>
+</canal>
+</canais>
+ 
